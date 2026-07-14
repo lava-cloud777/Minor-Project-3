@@ -44,4 +44,3 @@ As a Fraud Analyst at **PayFast** (a fictional Indian payment aggregator handlin
 2. Run `RedFlag_YourName.sql` to execute the full detection script.
 3. Verify suspect counts against flagged fraud rules.
 
-> **Note**: Do not upload the raw 18 MB `redflag_transactions.sql` dataset file directly to GitHub due to repo size considerations.
